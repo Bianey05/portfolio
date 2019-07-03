@@ -1,0 +1,45 @@
+header {
+  min-height: 100vh;
+  margin-top: 55px;
+  background-image: url(https://www.vitamusic.co/wp-content/uploads/2014/07/blue-flowers-cynthia-selahblue-cynti19-30569028-1280-1024.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+main {
+  scroll-behavior: smooth;
+}
+
+section {
+  align-items: center;
+}
+
+.row {
+  margin: 0 !important;
+}
+
+#portfolio {
+  background-color: #b5d3e7;
+    color: white;
+  justify-content: center;
+}
+
+.portfolio-item {
+  width: 30%;
+  margin: 10px;
+}
+
+#about {
+  background-color: #1261a0;
+  color: white;
+}
+
+#about img {
+  border-radius: 50%;
+  height: 50%
+}
