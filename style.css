@@ -1,7 +1,7 @@
 header {
   min-height: 100vh;
   margin-top: 55px;
-  background-image: url(https://www.vitamusic.co/wp-content/uploads/2014/07/blue-flowers-cynthia-selahblue-cynti19-30569028-1280-1024.jpg);
+  background-image: url(https://i2.wp.com/www.vitamusic.co/wp-content/uploads/2014/07/blue-flowers-cynthia-selahblue-cynti19-30569028-1280-1024.jpg?fit=1280%2C1024&ssl=1);
   background-attachment: fixed;
   background-size: cover;
   background-position: center;
@@ -43,3 +43,5 @@ section {
   border-radius: 50%;
   height: 50%
 }
+
+
